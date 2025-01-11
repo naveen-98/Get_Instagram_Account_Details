@@ -29,7 +29,7 @@ This script uses the `instaloader` library to download an Instagram user's profi
 
 1. Run the script using the command:
 
-python script_name.py
+`python script_name.py`
 
 Replace script_name.py with the actual name of your script.
 
